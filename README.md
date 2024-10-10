@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sathishkumarr2004.github.io/Portfolio/Portpolio/Portpolio.html](https://sathishkumarr2004.github.io/Portfolio/Portpolio/Portpolio.html)
 
-- 💬 Ask me about **html5,css3,javascript,UI/UX design**
+- 💬 Ask me about **html5 ,css3 ,javascript ,UI/UX design**
 
 - 📫 How to reach me **sathishrajendran2004@gmail.com**
 

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Postgre sql & frontend tools**
 
-- 👨‍💻 All of my projects are available at [https://sathishkumarr2004.github.io/Portfolio/Portpolio/Portpolio.html](https://sathishkumarr2004.github.io/Portfolio/Portpolio/Portpolio.html)
+- 👨‍💻 All of my projects are available at [https://ready-form-917455.framer.app/projects]
 
 - 💬 Ask me about **html5 ,css3 ,javascript ,UI/UX design**
 
